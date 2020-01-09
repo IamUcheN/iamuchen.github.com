@@ -39,7 +39,7 @@
                     <p style="color:#fff">Software Engineer, Cybersecurity Enthusiast, DMC, & Researcher</p>
                     <a target="_blank" href="#" class="btn btn-download">Download Resume</a>
                     <ul class="social">
-                        <li><a href="https://www.facebook.com/dwillofgod"><i class="ion-social-facebook"></i></a></li>
+                        <li><a href="https://www.facebook.com/FactzAndFigurez"><i class="ion-social-facebook"></i></a></li>
                         <li><a href="#"><i class="ion-social-twitter"></i></a></li>
                         <li><a href="https://www.linkedin.com/in/uchenwofia"><i class="ion-social-linkedin"></i></a></li>
                     </ul>
